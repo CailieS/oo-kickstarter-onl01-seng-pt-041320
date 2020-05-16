@@ -1,3 +1,3 @@
 class Backer
-  attr_accessible :backer
+  attr_accessible :name
 end
